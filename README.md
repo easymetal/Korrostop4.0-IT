@@ -29,10 +29,10 @@ La combinazione di _**E.KO IONISER**_ e _**Korrostop4.0**_ è compatibile con tu
 ![Immagine](Images/K4-head1.jpg)
 > Immagine: **Korrostop4.0** sul **E.KO IONISER 1501** 
 
-_© 2020 by [easymetal](https://www.easymetal.com/)_
+_© 2020 by [easymetal](https://www.easymetal.com/it.html)_
 
 ## Collegamento con codice QR:
 * a questa pagina _(https://github.com/easymetal/Korrostop4.0-IT)_: **[Images/qrIT.png](Images/qrIT.png)**
 * alle pagine Wiki  _(https://github.com/easymetal/Korrostop4.0-IT/wiki)_: **[Images/qrWiki.png](Images/qrWiki.png)**
 * alle pagine GitHub di easymetal _(https://github.com/easymetal)_: **[Images/qrEasymetal.png](Images/qrEasymetal.png)**
-* alle pagine GitHub di easymetal _(https://www.easymetal.com/)_: **[Images/qrWEB.png](Images/qrWEB.png)**
+* alle pagine GitHub di easymetal _(https://www.easymetal.com/it.html)_: **[Images/qrWEB.png](Images/qrWEB.png)**
