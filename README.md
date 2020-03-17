@@ -8,7 +8,7 @@ _**Korrostop4.0**_ è un dispositivo affidabile e preciso per la misurazione di 
 
 Inizialmente concepito per l’uso industriale nel [trattamento dell’acqua per i tagli a elettroerosione](https://www.easymetal.com/it/settori-di-applicazione/edm/utilizzo-nel-settore-edm.html) _**l'E.KO IONISER**_ con _**Korrostop4.0**_ , grazie all’elevata qualità, viene sempre più di frequente utilizzato in altri settori.
 
-La combinazione di _**E.KO IONISER**_ e _**Korrostop4.0**_ è compatibile con tutti gli apparecchi per EDM di qualsiasi produttore e, grazie ai suoi molti canali, offre un’integrabilità totale nel vostro sistema informatico aziendale esistente.  _**Korrostop4.0**_ è il dispositivo di misurazione ideale per perfezionare l’automazione dei processi nella vostra azienda. Si vedano anche le [**Funzioni**](Tutte-le-funzioni).
+La combinazione di _**E.KO IONISER**_ e _**Korrostop4.0**_ è compatibile con tutti gli apparecchi per EDM di qualsiasi produttore e, grazie ai suoi molti canali, offre un’integrabilità totale nel vostro sistema informatico aziendale esistente.  _**Korrostop4.0**_ è il dispositivo di misurazione ideale per perfezionare l’automazione dei processi nella vostra azienda. Si vedano anche le [**Funzioni**](../../wiki/Tutte-le-funzioni).
 
 > L’attuale versione **SYS412002** è uscita il 28.01.2020. Si vedano anche le [Versioni](../../wiki/Versioni).
 
