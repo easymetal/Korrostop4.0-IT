@@ -13,7 +13,7 @@ La combinazione di _**E.KO IONISER**_ e _**Korrostop4.0**_ è compatibile con tu
 > L’attuale versione **SYS412002** è uscita il 28.01.2020. Si vedano anche le [Versioni](../../wiki/Versioni).
 
 ## Qui potrete trovare:
-* [Informazioni]costantemente aggiornate su **Korrostop4.0**
+* [Informazioni](../../Informazioni)costantemente aggiornate su **Korrostop4.0**
 * [Updates](Updates) per il meccanismo di aggiornamento delle schede SD
 * [Specifiche](../../wiki) sul **Korrostop4.0**
 * [Tools e Source Code](IntegrationSamples) per l’automazione con **Korrostop4.0**
